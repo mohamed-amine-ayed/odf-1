@@ -9,7 +9,7 @@ htaccess.orig
 index.php
 license.txt
 ping.txt
-readme.html
+readme.htmlnnn
 robots.txt
 t.php
 wordfence-waf.php
