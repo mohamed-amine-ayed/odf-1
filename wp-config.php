@@ -36,7 +36,7 @@ include_once __DIR__ . '/wp-config.common.php';
 include_once __DIR__ . '/wp-config.common.php';
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'app_brandwebsite_database_preprod');
+define('DB_NAME', 'TEST12h32PROD');
 
 /** Utilisateur de la base de données MySQL. */
 define('DB_USER', 'mysqladmin@app-shared-dbserver01');
