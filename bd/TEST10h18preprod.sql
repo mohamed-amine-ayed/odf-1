@@ -1,0 +1,1 @@
+CREATE database TEST10h18PREPROD;
